@@ -82,10 +82,10 @@
             <div class="flip-card animated-toright cursor img-avatar-big rounded-circle"> 
               <div class="flip-card-inner "> 
                 <div class="flip-card-front border-0 rounded-circle"> 
-                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png"> 
+                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png" /> 
                 </div> 
                 <div class="flip-card-back border-0 rounded-circle"> 
-                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png"> 
+                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png" /> 
                 </div> 
               </div> 
             </div> 
