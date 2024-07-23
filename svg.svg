@@ -109,7 +109,7 @@
               font-weight:bold;
             }
             .fw-light{
-              font-weight:light !important;
+              font-weight:200 !important;
             }
             .link-underline-dark{
               text-decoration:underline;
