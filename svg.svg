@@ -118,7 +118,7 @@
               padding:5px 10px;
             }
             .font{
-               font-family:"Poppins";
+               font-family: "Poppins", sans-serif;
             }
     </style>
     <foreignObject width="100%" height="100%">
