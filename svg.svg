@@ -104,11 +104,12 @@
               width:40%;
               display:inline-block;
             }
-            .fw-light{
-              font-weight:light;
-            }
+            
             .fw-bold{
               font-weight:bold;
+            }
+            .fw-light{
+              font-weight:light !important;
             }
             .link-underline-dark{
               text-decoration:underline;
