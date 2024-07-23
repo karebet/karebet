@@ -94,7 +94,8 @@
             .bg-white{
               background-color:#FFFFFF;
               display:flex;
-              padding:15px;
+              padding:25px;
+              border-radius:50px;
             }
             .col-7{
               width:70%;
