@@ -1,7 +1,96 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; height: 100%;">
-          <iframe src="https://robeth.my.id/" title="mywebsite"></iframe>
+          <style >
+            .img-avatar-big {
+              width: 400px;
+              height: 400px;
+            }
+            @media only screen and (max-width: 450px) {
+              .img-avatar-big {
+                width: 200px;
+                height: 200px;
+              }
+            }
+            .img-avatar-big img {
+              width: 100% !important;
+              height: 100% !important;
+            }
+            .img-avatar-big.img-avatar-q {
+              top: 0px;
+            }
+            .animated-toright {
+              margin-left: 50px;
+              margin-top: 0px;
+              animation: animatedtorighteffect 2s ease infinite;
+              -webkit-animation: animatedtorighteffect 2s ease infinite;
+              -moz-animation: animatedtorighteffect 2s ease infinite;
+              -o-animation: animatedtorighteffect 2s ease infinite;
+              animation-play-state: running;
+            }
+            .animated-toright:hover {
+              animation-play-state: paused;
+            }
+            @keyframes animatedtorighteffect {
+              0% {
+                margin-left: 50px;
+                padding-top: -10px;
+              }
+              30% {
+                margin-left: 100px;
+                padding-top: -40px;
+              }
+              50% {
+                margin-left: 70px;
+                padding-top: -20px;
+              }
+              100% {
+                margin-left: 50px;
+                padding-top: -10px;
+              }
+            }
+            .flip-card {
+              background-color: transparent;
+              perspective: 1000px;
+              z-index: 0;
+              transition: z-index 0.6s;
+            }
+            .flip-card .flip-card-inner {
+              position: relative;
+              text-align: center;
+              transition: transform 0.6s;
+              transform-style: preserve-3d;
+            }
+            .flip-card .flip-card-inner .flip-card-front, .flip-card .flip-card-inner .flip-card-back {
+              position: absolute;
+              -webkit-backface-visibility: hidden;
+              backface-visibility: hidden;
+            }
+            .flip-card .flip-card-inner .flip-card-back {
+              transform: rotateY(180deg);
+            }
+            .flip-card:hover {
+              position: inherit;
+              z-index: 1;
+            }
+            .flip-card:hover .flip-card-inner {
+              transform: rotateY(-180deg);
+            }
+
+          </style>
+          <div class="position-relative"> 
+            <div class="flip-card animated-toright cursor img-avatar-big rounded-circle"> 
+              <div class="flip-card-inner "> 
+                <div class="flip-card-front border-0 rounded-circle"> 
+                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png"> 
+                </div> 
+                <div class="flip-card-back border-0 rounded-circle"> 
+                  <img alt="Achmed Robeth Muzaki" class="" src="20240306-logorobeth.png"> 
+                </div> 
+              </div> 
+            </div> 
+            <img class="img-avatar-big img-avatar-q position-absolute rounded-circle" src="https://umkmku.s3.ap-southeast-1.amazonaws.com/rbtimg/RBT.png" alt="Achmed Robeth Muzaki">
+          </div>
         </div>
     </foreignObject>
 </svg>
