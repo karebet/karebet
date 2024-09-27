@@ -37,7 +37,7 @@
     "skill":{
         "PHP":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logophp.svg",
         "Dart":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logodart.svg",
-        "ASP.NET":"https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg",
+        "ASP.NET":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240927-aspnet.png",
         "Codeigniter":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logoci.svg",
         "Laravel":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logolaravel.svg",
         "NextJS":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240808-logonext.svg",
