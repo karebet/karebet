@@ -1,5 +1,8 @@
 {
     "title" :"Achmed Robeth Muzaki | robeth.my.id",
+    "name" :"Achmed Robeth Muzaki",
+    "simple_name" :"Robeth Muzaki",
+    "nick_name" :"Robeth",
     "image" : "https://umkmku.s3.ap-southeast-1.amazonaws.com/rbtimg/RBT.png",
     "logo":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logorobeth.png",
     "main_position" :"Fullstack Developer & Head of IT",
