@@ -19,7 +19,7 @@
         {
             "tahun": "2","tahun_end": "tahun","sebagai": "IT Dev Team Lead & Fullstack Developer","time": "2025 - sekarang","hitung_tahun":2025,
             "textdesc": "Membangun dan maintenance system internal. Memanagement dan melakukan riset dan analisis, perencanaan, dan desain terhadap kebutuhan setiap sistem dan aplikasi",
-            "location": "PT Berkat Hijau Makmur Abadi (BHMA) (Berkat Hijau Group)"
+            "location": "PT Berkat Hijau Makmur Abadi (Berkat Hijau Group)"
         },
         {
             "tahun": "3","tahun_end": "tahun","sebagai": "Head of IT & Fullstack Developer","time": "2022 - 2025","hitung_tahun":0,
