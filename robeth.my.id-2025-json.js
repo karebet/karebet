@@ -7,7 +7,7 @@
     "logo":"https://umkmku.s3.ap-southeast-1.amazonaws.com/img/20240306-logorobeth.png",
     "main_position" :"Fullstack Developer & IT Dev Team Lead",
     "core_position" :"Fullstack Developer",
-    "text":"<h1 class='h1 fw-bold'>👋 Hi, <span class='fw-light'>i'm</span> Robeth Muzaki</h1> <p class='h3'>Fullstack Developer &amp; IT Dev Team Lead <br>di <a class='text-dark link-underline-dark' href='https://berkathijaugroup.com/'>Berkat Hijau Group</a>.</p> <p>Saya adalah seorang Programmer, yang sudah 13 tahun mendalami bidang Teknologi. </p> <p>Sering membuat Aplikasi / Web:</p> <ul> <li>CMMS, GIS &amp; ERP</li> <li>E-Commerce , Company Profile &amp; Toko Online</li> <li>Mobile Applications &amp; Game</li> </ul> <p> Jika memiliki Project, dengan senang hati saya akan membantu untuk menyelesaikannya. </p>",
+    "text":"<h1 class='h1 fw-bold'>👋 Hi, <span class='fw-light'>i'm</span> Robeth Muzaki</h1> <p class='h3'>Fullstack Developer &amp; IT Dev Team Lead di <a class='text-dark link-underline-dark' href='https://berkathijaugroup.com/'>Berkat Hijau Group</a>.</p> <p>Saya adalah seorang Programmer, yang sudah 13 tahun mendalami bidang Teknologi. </p> <p>Sering membuat Aplikasi / Web:</p> <ul> <li>CMMS, GIS &amp; ERP</li> <li>E-Commerce , Company Profile &amp; Toko Online</li> <li>Mobile Applications &amp; Game</li> </ul> <p> Jika memiliki Project, dengan senang hati saya akan membantu untuk menyelesaikannya. </p>",
     "customehtml1":"<div class='row mb-5'> <div class='col-md-12'> <a target='_blank'  rel='noreferrer' href='https://jadipro.id' class='text-decoration-none card card-body px-5 rounded-5 pb-0 shadow border-0 bg-primary'> <div class='row align-items-center'> <div class='col-md-9'> <h2 class='h1'>UMKM punya website gratis!</h2> </div> <div class='col-md-3'> <img class='w-100' src='https://umkmku.s3.ap-southeast-1.amazonaws.com/rbtimg/jadpro-svg-mini-png.svg' alt='umkm jadipro'> </div> </div> </a> </div> </div>",
     "link_sosmed" : [
         {"icon":"wa","name":"Whatsapps","link":"https://wa.me/6282170699887"},
@@ -19,7 +19,7 @@
         {
             "tahun": "2","tahun_end": "tahun","sebagai": "IT Dev Team Lead & Fullstack Developer","time": "2025 - sekarang","hitung_tahun":2025,
             "textdesc": "Membangun dan maintenance system internal. Memanagement dan melakukan riset dan analisis, perencanaan, dan desain terhadap kebutuhan setiap sistem dan aplikasi",
-            "location": "PT Berkat Hijau Makmur Abadi"
+            "location": "PT Berkat Hijau Makmur Abadi (BHMA) (Berkat Hijau Group)"
         },
         {
             "tahun": "3","tahun_end": "tahun","sebagai": "Head of IT & Fullstack Developer","time": "2022 - 2025","hitung_tahun":0,
